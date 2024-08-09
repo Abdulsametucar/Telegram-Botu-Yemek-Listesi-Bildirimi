@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fluted-galaxy-428615-a2",
+  "private_key_id": "28fb403d7d23434d098e79c1c24ffb7a8f105284",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDVlOK2vMeOHriy\nF8Mgvixe4duFu28eSB0PzcJ09mQxN9Svq+82smjP8Vv8exQ2XL7a5zjgmb2ahX1t\nl0iwxFwY5hDZG5qpos3Oy0a76AEULHA9maAO7isRXTzKKlvKj7S6eJjPyGQkoyLI\n5pNZu05tjUJSAItBLwl7uEtGztWpxo+4feeP5gntPL/I74DIzFv2TPTgcpXwf4EQ\njV/lnfQ3mBSOsdC4r/Y+o9s8VhqdfQ4Uoxopq2ewTT05v2+neyYpNdzybbOr5vZm\np2VD8f5sLs7Aa3Cayxdy0LmMbv69uTrVK/vItwL8XW5okl/KL2DzfVaNVo8daP/L\ndKQw0j3zAgMBAAECggEADzNogKmmPkGGKE6z+YmaGNVUTWFOAvFjosikgAnlOZzd\nS0oeXV3h7c13cYcaT4AsU+IZqd/nSa8Z198+Mi6CK4Im+Cdpy4xQai5iMLojZtnU\nJzOJhmaBtDEBmZXdhejSa7nCOSTsU7CJ/Ohu26JkGOdGgsA9KPzTB6DR4rk9JbcL\nIUWRFToTFGo+nfS1cr948ynTZq+cpGEEXo8t65elWuSUkrgRoJFTLvTuWlyKCb/u\nAWXPh9J8nbuI+HS3ZYqfpaP/FH/3Z5kO4s/FOGMDYPkwBwErX0cA3aLTIJnTcpj9\nHhE6wTmJyKtWY4Ey4LebhP0cZyUKibzkmCUX7/hlOQKBgQDtC5rxX4E0n7d+lbrR\n2bunMKmFc+sX7XozksIIAHTrznSqAIIjEWzHdAiBFqzxLVJgh6zAuDzi+xEzWpb2\nwKs7qN1fZSR9PO5b/q0SHFcR2ihOpywBZa+81rbgG7CxFMD6wjQTCgSuqZ2VgXOr\nXFLk1LBHqOGhcU/5ohjRyk4AzQKBgQDmqPhGJh8vpw5ayJVw46KkfcUtNH3L1rFT\nJkKGvhaFdo1RYjA+qPwaRHZvNOyz7sTYCBjIxOkD2F7jZeq8Nml5BaleenCR8zMC\nqE2Z7cyEG4RLumorN68hyZSoUEp1J1hQXypuWHxEgU2caQ3s+7Fn3yxoZSevxkpm\n5xfxhDo5vwKBgQDTEmZhT11Jcn59pO25Nlu1v8rzHgjUQY1yptdHMMDrx+ZyCgnX\nGAj4gQWhjINqLaUQdz8ITAVLR6xFQgDyrxTKBs83xmP7cGn+WIPbgIi3SL5jas/w\nXo9hYv9sBrwKsiQ0JQEhguYwcK/1FFPe3lKhmBFvfZ2Ll85Sxle7VpymcQKBgQCw\nY4TA+EQfB8x1ZjDJzHpC+h8AC8UrTTn7kSWMru7AD0HQe5rTQBzR5YsATeO5UZ1c\nawyw88wRcbRWh0izt5R+xPKZWl6dbfKTVKtLTEt6tyQ7WQn5lLKrzuCMuiHGZ1kk\n1TG4gpg9Nvhn5PqOQIeRHFx0VO69f5DEEnL/8ZMpNwKBgQC0uvnbglNqa8dHGv3t\nKDbq8E88TN6NU8u+4mHOmich6s/nIh1rKNGT+2n6nvCUyq698rJSJeVOnDlrdwJq\njNVPKsRzzuMJ+3qN9+iYnfTuajHXZkuP87mC7JYsprhKlTRHqW+BncP1TsIZ+FFU\nlGJZQAvvkK/8WYBkXHp9NpcSAw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "hafize-ana-pera@fluted-galaxy-428615-a2.iam.gserviceaccount.com",
+  "client_id": "109560565637655909595",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hafize-ana-pera%40fluted-galaxy-428615-a2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
