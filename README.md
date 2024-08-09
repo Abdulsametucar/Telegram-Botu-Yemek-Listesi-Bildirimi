@@ -7,7 +7,8 @@ Bu proje, şirket personelleri için geliştirilmiş özel bir Telegram botudur.
 - **Günlük Yemek Menüsü**: Kullanıcılar, `/menu` komutunu kullanarak günlük yemek listesini öğrenebilirler.
 - **Kolay Kurulum**: Google Sheets ile entegrasyon sağlayan ve Telegram API'sini kullanan bu bot, Python ile geliştirilmiştir.
 - **Dinamik Veri**: Yemek listeleri, Google Sheets üzerinde güncellendiğinde bot tarafından otomatik olarak çekilir ve kullanıcılara sunulur.
-![image](https://github.com/user-attachments/assets/92f0cebe-4f25-4b09-b0df-55523e736cac)
+![image](https://github.com/user-attachments/assets/4d331d76-a167-42d3-8a75-bdd104dca5fe)
+
 
 ## Kullanım
 
