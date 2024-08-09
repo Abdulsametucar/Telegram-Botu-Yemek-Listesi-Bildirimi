@@ -1,6 +1,6 @@
 # Yemek Listesi Telegram Botu
 
-Bu proje, şirket personelleri için geliştirilmiş özel bir Telegram botudur. Bu bot, firma personellerinin günlük yemek listesini kolayca öğrenmelerini sağlamak amacıyla tasarlanmıştır. Bot, yemek listelerini Google Sheets'te tutulan bir Excel dosyasından dinamik olarak alır ve kullanıcılara sunar.
+Bu proje, şirket personelleri için geliştirilmiş yapay zeka kullanılarak hazırlanmış özel bir Telegram botudur. Bu bot, firma personellerinin günlük yemek listesini kolayca öğrenmelerini sağlamak amacıyla tasarlanmıştır. Bot, yemek listelerini Google Sheets'te tutulan bir Excel dosyasından dinamik olarak alır ve kullanıcılara sunar.
 
 ## Özellikler
 
